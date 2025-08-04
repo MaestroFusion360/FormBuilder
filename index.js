@@ -1908,7 +1908,7 @@ Lr();
 const Wt = {
   ru: {
     appName: "FormBuilder",
-    version: "1.0.0",
+    version: "1.1.0",
     author: "MaestroFusion360",
     footerText: "© 2025",
     menu: ["Открыть JSON", "Сохранить JSON", "Очистить всё"],
@@ -1971,7 +1971,7 @@ const Wt = {
   },
   en: {
     appName: "FormBuilder",
-    version: "1.0.0",
+    version: "1.1.0",
     author: "MaestroFusion360",
     footerText: "© 2025",
     menu: ["Open JSON", "Save JSON", "Clear all"],

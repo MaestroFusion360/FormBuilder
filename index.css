@@ -1102,7 +1102,8 @@ button.danger,
   height: 100vh;
 }
 .app-header {
-  height: 200px !important;
+  min-height: 50px;
+  max-height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1172,6 +1173,7 @@ button.danger,
 }
 .props {
   padding-left: var(--space-md);
+  padding-right: var(--space-md);
 }
 .placeholder-text {
   color: var(--placeholder);

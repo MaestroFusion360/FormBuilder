@@ -38,9 +38,9 @@ define(["./workbox-5ffe50d4"], function (e) {
         { url: "assets/icon-192.png", revision: null },
         { url: "assets/icon-512.png", revision: null },
         { url: "assets/icon.svg", revision: null },
-        { url: "index.css", revision: "d86ab505e951d2849a71631d3192020e" },
+        { url: "index.css", revision: "2104990008d6a1f253e13da99658bf0c" },
         { url: "index.html", revision: "7ec222ae33b9dba44bf6d74bc023003b" },
-        { url: "index.js", revision: "45bf87f63630feb0d2ca29dac2262f71" },
+        { url: "index.js", revision: "d8dfcb44efd635e3e50922494023d60c" },
         {
           url: "manifest.webmanifest",
           revision: "a4e49840d596628870bb00b21e90afda",
