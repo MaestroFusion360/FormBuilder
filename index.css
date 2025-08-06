@@ -1252,6 +1252,23 @@ context-menu {
   color: var(--fg) !important;
   transform: none !important;
 }
+.context-menu-submenu {
+  position: relative;
+}
+.context-submenu {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  z-index: 1000;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px #0003;
+  min-width: 180px;
+}
+.submenu-arrow {
+  margin-left: auto;
+  opacity: 0.6;
+}
 textarea,
 pre {
   border-radius: var(--radius-sm);
