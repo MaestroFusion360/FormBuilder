@@ -57,3 +57,8 @@ The project is built with Vite and the Svelte plugin (`@sveltejs/vite-plugin-sve
 [GitHub](https://github.com/MaestroFusion360)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaestroFusion360-FormBuilder&label=Project+Views&color=blue" alt="Project Views" />
+</p>
+
